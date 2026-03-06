@@ -1,0 +1,22 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "nodejs examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riohrus/nodejs.git"
+  },
+  "author": "Herber Cerón <herber.ceron30@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riohrus/nodejs/issues"
+  },
+  "homepage": "https://github.com/Riohrus/nodejs#readme",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
